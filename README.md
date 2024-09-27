@@ -23,10 +23,6 @@ DB_PASSWORD=
 
 ## php artisan serve
 
-## Email
+## Login Credentials
 
-superadmin@gmail.com
-
-## Password
-
-password
+Email => superadmin@gmail.com , Password => 'password'
