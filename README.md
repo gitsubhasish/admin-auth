@@ -19,4 +19,14 @@ DB_PASSWORD=
 
 ## npm run dev
 
+## php artisan key:generate
+
 ## php artisan serve
+
+## Email
+
+superadmin@gmail.com
+
+## Password
+
+password
